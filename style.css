@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+     background-color: black;
+
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Water Brush', cursive;
+    font-weight: 300;
+}
+
+#intro{
+    background-color: rgb(155, 92, 198);
+}
+
+#origami1{
+   background-color:rgb(243, 111, 194);
+}
+
+#origami2{
+  background-color:lightcoral; 
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+p{
+    font-family: 'Cinzel Decorative', cursive;
+    font-size: 20px;
+}
+#tit, #crane, #tulipan, #sobre, #caja{
+    font-size: 60px;
+    font-family: 'Water Brush', cursive;
+    font-weight: 300;
+}
